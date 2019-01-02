@@ -1075,6 +1075,10 @@
                     "url": "rtmp://live-ash.stream.highwebmedia.com/live-origin"
                 },
                 {
+                    "name": "South America: Sao Paulo, Brazil",
+                    "url": "rtmp://live-gru.stream.highwebmedia.com/live-origin"
+                },
+                {
                     "name": "EU: Amsterdam, NL",
                     "url": "rtmp://live-nld.stream.highwebmedia.com/live-origin"
                 },
